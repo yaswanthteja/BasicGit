@@ -45,6 +45,9 @@ A way to think about Git and Github.
 - Now one could "clone" that repository on another computer and not just get the latest code but the complete revision history on another computer.
 
 
+![image](https://user-images.githubusercontent.com/93423367/204571007-30c400b6-7aae-4b06-9654-ecba3230ae5b.png)
+
+
 
 Setting up
 ------------
