@@ -10,7 +10,7 @@
 - [Git Issue](https://github.com/yaswanthteja/BasicGit/blob/main/Git%20issue.md)
 - [Interacting With Isuue](https://github.com/yaswanthteja/BasicGit/blob/main/Interacting%20with%20an%20issue.md)
 - [Assigness](https://github.com/yaswanthteja/BasicGit/blob/main/Assignees.md)
-
+- [Requests](https://github.com/yaswanthteja/BasicGit/blob/main/Pull%20Requests.md)
 
 Getting Started With Git and GitHub
 ===================================
