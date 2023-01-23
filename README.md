@@ -9,6 +9,7 @@
 - [Remote Git](https://github.com/yaswanthteja/BasicGit/blob/main/Remote%20Git.md)
 - [Git Issue](https://github.com/yaswanthteja/BasicGit/blob/main/Git%20issue.md)
 - [Interacting With Isuue](https://github.com/yaswanthteja/BasicGit/blob/main/Interacting%20with%20an%20issue.md)
+- [Assigness](https://github.com/yaswanthteja/BasicGit/blob/main/Assignees.md)
 
 
 Getting Started With Git and GitHub
