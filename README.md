@@ -12,6 +12,7 @@
 - [Assigness](https://github.com/yaswanthteja/BasicGit/blob/main/Assignees.md)
 - [Requests](https://github.com/yaswanthteja/BasicGit/blob/main/Pull%20Requests.md)
 - [Project1](https://github.com/yaswanthteja/BasicGit/blob/main/Projects%201.md)
+- [Project2](https://github.com/yaswanthteja/BasicGit/blob/main/Project%202.md)
 
 Getting Started With Git and GitHub
 ===================================
