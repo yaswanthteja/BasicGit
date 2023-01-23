@@ -6,7 +6,7 @@
 
 
 - [Getting Started with Git](https://github.com/yaswanthteja/BasicGit/blob/main/Getting%20Started%20with%20Git.md)
-
+- [Remote Git](https://github.com/yaswanthteja/BasicGit/blob/main/Remote%20Git.md)
 Getting Started With Git and GitHub
 ===================================
 
