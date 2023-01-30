@@ -84,7 +84,7 @@ Assuming your project is in a folder named "Project" on your Desktop.
 	- origin :: We're naming the remote "origin". You can also call this "github" or "bananasauraus" if you'd like.
 
 
-### Cloning an existing repository.
+## Cloning an existing repository.
 
 - Determine your SSH clone url. On Github it's probably something like ***git@github.com:USERNAME/PROJECT.git***. Should be on the project's page somewhere.
 
