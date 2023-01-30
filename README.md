@@ -14,15 +14,15 @@
 - [Project1](https://github.com/yaswanthteja/BasicGit/blob/main/Projects%201.md)
 - [Project2](https://github.com/yaswanthteja/BasicGit/blob/main/Project%202.md)
 
-Getting Started With Git and GitHub
-===================================
+### Getting Started With Git and GitHub
 
-Explaining Git and GitHub.
+
+# Explaining Git and GitHub.
 
 The following commands below are to be run in the Terminal.
 
-The Git Flow
-==================
+### The Git Flow
+
 
 
 A way to think about Git and Github.
