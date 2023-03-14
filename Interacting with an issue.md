@@ -2,11 +2,16 @@
 # Interacting with an issue
 Let's add more issues
 
-1.Documentation 
-2.Data preprocessing.
+1.Documentation   
+
+2.Data preprocessing 
+
 3.Model selection
+
 4.Building the model
+
 5.Test model
+
 Those are some basic steps that we will need to follow to accomplish our goal. Since you already know how to create issues, I will let you create an issue for each of these bullet points. After you are done, your Issues page should look like mine as shown below.
 
 Before that, we can rename our repo from “to do” to something more data science. Bearing that in mind, I renamed mine to “basic model”, you can rename yours to anything you want.
