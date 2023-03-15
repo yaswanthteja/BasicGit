@@ -104,8 +104,8 @@ Updating/The Development Cycle
 ------------
 You now have a git repository, likely with two branches: master and develop. Now bake these laws into your mind and process:
 
-####You will never commit to ***master*** directly.
-####You will never commit to ***develop*** directly.
+###  You will never commit to ***master*** directly.
+### You will never commit to ***develop*** directly.
 
 Instead, you will create ***feature branches*** on your machine that exist for the purpose of solving singular issues. You will always base your features off the develop branch.
 
