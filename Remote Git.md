@@ -92,9 +92,9 @@ Linking repositories
 Now that we have our local repository, it’s time to link it to the remote! To list, add, or remove remotes, we will use the git remote command. For example, let’s link our current
 
 remotes using this command:
-
+```
 git remote
-
+```
 You shouldn’t get any result because it’s a brand-new repository, and we haven’t linked any remote to it. Let’s add one now.
 
 You will need the unique link to your repository to be able to link a local repository
