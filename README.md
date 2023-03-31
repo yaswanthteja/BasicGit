@@ -21,7 +21,7 @@
 
 The following commands below are to be run in the Terminal.
 
-### The Git Flow
+## The Git Flow
 
 
 
@@ -60,7 +60,7 @@ A way to think about Git and Github.
 
 
 
-Setting up
+## Setting up
 ------------
 Assuming your project is in a folder named "Project" on your Desktop.
 
@@ -100,7 +100,7 @@ Assuming your project is in a folder named "Project" on your Desktop.
 
 		git checkout -b develop
 
-Updating/The Development Cycle
+## Updating/The Development Cycle
 ------------
 You now have a git repository, likely with two branches: master and develop. Now bake these laws into your mind and process:
 
@@ -125,7 +125,7 @@ This adds any new files to be tracked and makes a commit. Now let's add them to 
 	git merge --no-ff my-feature-branch
 	git push origin develop
 
-Releasing
+## Releasing
 ------------
 Finished with your project?
 
