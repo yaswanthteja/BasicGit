@@ -149,8 +149,9 @@ Now is the time to commit our project with git commit. As commit message, many d
 Since we’ve done these many times already, you should be comfortable with staging and committing by now. 
 
 Just like that, we have our first commit! Now, we can push those changes to the remote repository. The command to push changes to remote is simple; you just need the name of the remote repository and the branch to be pushed. Since we haven’t created any branch yet (we’ll learn about branches in a later section), our only branch is called “master.” The git push command is
-
+```
 git push <remote_name> <branch_name>
+```
 
 So, in our case, the command will be git push origin master
 
